@@ -23,6 +23,17 @@
             "emails": ["chris@pistoncloud.com", "chris@slicehost.com"]
         },
         {
+            "launchpad_id": "zhang-quanwei",
+            "companies": [
+                {
+                    "company_name": "Fujitsu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Zhang Quanwei",
+            "emails": ["zhang_quanwei@yeah.net", "zhangqw.fnst@cn.fujitsu.com"]
+        },
+        {
             "launchpad_id": "1lex",
             "companies": [
                 {

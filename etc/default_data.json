@@ -118,6 +118,22 @@
             "emails": ["aababilo@yahoo-inc.com", "ilovegnulinux@gmail.com", "aababilov@griddynamics.com"]
         },
         {
+           "launchpad_id": "zhang-quanwei",
+           "gerrit_id": "partys",
+           "companies": [
+               {
+                   "company_name": "*independent",
+                   "end_date": "2013-Apr-10"
+               },
+               {
+                   "company_name": "Fujitsu",
+                   "end_date": null
+               }
+           ],
+           "user_name": "Quanwei Zhang",
+           "emails": ["zhang_quanwei@yeah.net","zhangqw.fnst@cn.fujitsu.com"]
+       },
+        {
             "launchpad_id": "aaron-lee",
             "companies": [
                 {
